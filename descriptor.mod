@@ -10,5 +10,11 @@ tags={
 	"Technologies"
 	"New Nations"
 }
+replace_path = "map"
+replace_path = "history"
+replace_path = "events"
+replace_path = "decisions"
+replace_path = "missions"
 name="Burghers, barley and bloomeries"
+path="mod/B3mod"
 supported_version="1.36.*"

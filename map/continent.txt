@@ -1,0 +1,26 @@
+europe = {
+}
+
+asia = {
+	2
+}
+
+africa = {
+}
+
+north_america = {
+}
+
+south_america = {
+}
+
+oceania = {
+}
+
+island_check_provinces = {
+	2 # Daidu - Afro-Eurasia
+}
+
+# Used for RNW
+new_world = {
+}

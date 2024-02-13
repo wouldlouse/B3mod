@@ -1,0 +1,10 @@
+english_channel={
+	location=2
+	color={
+		220 138 57 
+	}
+	members={
+		2
+	}
+	end=yes
+}
