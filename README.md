@@ -63,9 +63,7 @@ Clone the repository into your mod folder[^modfolder], copy `description.mod` fr
 
 ## Acknowledgements
 
-Water body data comes from [Natural Earth][natearth] and [World Water Bodies][wwb] (by Esri and Garmin International, Inc.).
-[natearth]: naturalearthdata.com
-[wwb]: https://www.arcgis.com/home/item.html?id=e750071279bf450cbd510454a80f2e63
+Water body data comes from [Natural Earth](naturalearthdata.com) and [World Water Bodies](https://www.arcgis.com/home/item.html?id=e750071279bf450cbd510454a80f2e63) (by Esri and Garmin International, Inc.).
 
 The following are the sources for the world height data (through Mapzen's terrain tile service):
 * ArcticDEM terrain data DEM(s) were created from DigitalGlobe, Inc., imagery and funded under National Science Foundation awards 1043681, 1559691, and 1542736;
@@ -80,8 +78,6 @@ The following are the sources for the world height data (through Mapzen's terrai
 * United Kingdom terrain data © Environment Agency copyright and/or database right 2015. All rights reserved;
 * United States 3DEP (formerly NED) and global GMTED2010 and SRTM terrain data courtesy of the U.S. Geological Survey.
 
-Tree cover data is by Hansen/UMD/Google/USGS/NASA, available from [Global Forest Change][gfc].
-[gfc]: https://glad.earthengine.app/view/global-forest-change
+Tree cover data is by Hansen/UMD/Google/USGS/NASA, available from [Global Forest Change](https://glad.earthengine.app/view/global-forest-change).
 
-Colour map data is by NASA Earth Observatory, available from [Blue Marble: Next Generation][bluemarble].
-[bluemarble]: https://earthobservatory.nasa.gov/features/BlueMarble
+Colour map data is by NASA Earth Observatory, available from [Blue Marble: Next Generation](https://earthobservatory.nasa.gov/features/BlueMarble).
