@@ -80,4 +80,6 @@ The following are the sources for the world height data (through Mapzen's terrai
 
 Tree cover data is by Hansen/UMD/Google/USGS/NASA, available from [Global Forest Change](https://glad.earthengine.app/view/global-forest-change).
 
+Ecoregion data used to decide tree types from [Ecoregions 2017](https://ecoregions.appspot.com/) © Resolve.
+
 Colour map data is by NASA Earth Observatory, available from [Blue Marble: Next Generation](https://earthobservatory.nasa.gov/features/BlueMarble).
