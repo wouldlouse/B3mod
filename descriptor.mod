@@ -11,7 +11,9 @@ tags={
 	"New Nations"
 }
 replace_path = "map"
-replace_path = "history"
+replace_path = "common/scripted_effects"
+replace_path = "history/countries"
+replace_path = "history/provinces"
 replace_path = "events"
 replace_path = "decisions"
 replace_path = "missions"

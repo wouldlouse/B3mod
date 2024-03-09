@@ -1,0 +1,16 @@
+trade_company_novgorod = {
+	color = { 97 126 37 }
+	
+	provinces = {
+		2
+	}
+	
+	# Specific
+	# Generic
+	names = {
+		name = "TRADE_COMPANY_NOVGOROD_Root_Culture_GetName"
+	}
+	names = {
+		name = "TRADE_COMPANY_NOVGOROD_European_Trade_Company"
+	}
+}
