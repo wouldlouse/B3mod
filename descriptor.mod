@@ -12,6 +12,7 @@ tags={
 }
 replace_path = "map"
 replace_path = "common/scripted_effects"
+replace_path = "common/scripted_triggers"
 replace_path = "history/countries"
 replace_path = "history/provinces"
 replace_path = "events"
